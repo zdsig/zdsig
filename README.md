@@ -1,6 +1,6 @@
 # Olá! 👋 Bem-vindo ao meu perfil
 
-Meu nome é **Erick Santos** e sou **Marinheiro Recruta RM2** na Marinha do Brasil.
+Meu nome é **Erick Santos** e sou **Marinheiro Recruta RM2** da Marinha do Brasil.
 
 ---
 
@@ -34,8 +34,7 @@ Atuo na área de computação com experiência em:
 
 ## 📫 Entre em contato
 
-- 📧 Email: [Adicione seu email]
-- 💼 LinkedIn: [Adicione seu perfil]
+- 📧 Email: erickcostasantos17@gmail.com
 - 🐙 GitHub: [zdsig](https://github.com/zdsig)
 
 ---
