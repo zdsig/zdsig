@@ -1,16 +1,43 @@
-## Hi there 👋
+# Olá! 👋 Bem-vindo ao meu perfil
 
-<!--
-**zdsig/zdsig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Erick Santos** e sou **Marinheiro Recruta RM2** na Marinha do Brasil.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Formação Acadêmica
+
+- **Ensino Médio Completo**
+- **Auxiliar Administrativo** - Marinha do Brasil / SENAI
+- **Experiência em Computação** - Marinha do Brasil
+
+---
+
+## 💻 Experiência Profissional
+
+Atuo na área de computação com experiência em:
+- 🖥️ Organização e manutenção de computadores
+- 🔧 Suporte técnico e resolução de problemas
+- 📋 Tarefas administrativas relacionadas à TI
+- 🛠️ Configuração e otimização de sistemas
+
+---
+
+## 🛠️ Habilidades
+
+- Manutenção de Hardware
+- Instalação e Configuração de Software
+- Suporte Técnico
+- Organização de Infraestrutura de TI
+- Conhecimentos em Administração
+
+---
+
+## 📫 Entre em contato
+
+- 📧 Email: [Adicione seu email]
+- 💼 LinkedIn: [Adicione seu perfil]
+- 🐙 GitHub: [zdsig](https://github.com/zdsig)
+
+---
+
+⚓ *Servidor público dedicado ao Brasil* 🇧🇷
