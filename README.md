@@ -1,6 +1,6 @@
 # Olá! 👋 Bem-vindo ao meu perfil
 
-Meu nome é **Erick Santos** e sou **Marinheiro Recruta RM2** da Marinha do Brasil.
+Meu nome é **Erick Santos** e sou **Marinheiro RM2** da Marinha do Brasil.
 
 ---
 
